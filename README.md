@@ -1,7 +1,3 @@
-Here’s the complete README file for your Twitter Sentiment Analysis project:
-
----
-
 # Twitter Sentiment Analysis Streamlit App
 
 This project is a **Twitter Sentiment Analysis** web application built with **Streamlit**. The app predicts whether a given tweet has a **Positive** or **Negative** sentiment based on the text input.
@@ -93,9 +89,3 @@ Prediction: Positive
 - `requirements.txt`: List of Python dependencies required for the project.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need any further modifications!
