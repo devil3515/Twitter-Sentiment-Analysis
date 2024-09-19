@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 # Download stopwords if needed
 nltk.download('stopwords')
 
-
+st.set_page_config(page_title="Twitter Sentiment Analysis")
 # Preprocessing function (as per your notebook)
 def preprocess_text(text):
     # Remove unwanted characters and lowercase the text
